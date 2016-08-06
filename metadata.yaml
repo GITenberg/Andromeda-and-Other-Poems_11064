@@ -1,0 +1,31 @@
+_repo: Andromeda-and-Other-Poems_11064
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingley, Charles
+    - Kingsley, C. (Charles)
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: Charles Kingsley turned his literary skills to poetry for this collection.
+  Gathered here are his long poem "Andromeda", and poems with such evocative titles
+  as "The Starlings", "Ode to the Northeast Wind", "The Watchman", and "The World's
+  Age" as well as some of Kingsley's earlier verses.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: Andromeda, and Other Poems
+url: http://www.gutenberg.org/ebooks/11064
